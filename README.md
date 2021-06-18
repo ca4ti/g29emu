@@ -75,3 +75,5 @@ extern LUFASerial Serial;
 #endif
 ```
 
+http://forum.gimx.fr/viewtopic.php?f=11&t=3036
+
