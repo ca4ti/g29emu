@@ -12,7 +12,7 @@ Therefore i thought of a stripped down version of GIMX that does about the same 
 - USB Host shield (or another board having a MAX3421E USB to SPI chip)
 - Arduino one of the latest version (i am using 1.8.5)
 - LUFA for Arduino (https://github.com/Palatis/Arduino-Lufa)
-- USB Host shield library by Oleg Mazurov (Circuits@Home)
+- USB Host shield library by Oleg Mazurov (Circuits@Home) https://github.com/felis/USB_Host_Shield_2.0
 - GIMX Firmware sources from matlo (https://github.com/matlo/GIMX-firmwares)
 - USB HUB (you need two ports, one for the wheel and another for the PS4 controller)
 
